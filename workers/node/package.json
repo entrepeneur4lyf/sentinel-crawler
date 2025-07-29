@@ -48,7 +48,7 @@
     "image-downloader": "^3.2.2",
     "isomorphic-parser": "^0.0.1",
     "kcors": "^2.2.1",
-    "koa": "^2.3.0",
+    "koa": "^3.0.1",
     "koa-router": "next",
     "md5": "^2.2.1",
     "mysql": "^2.13.0",
